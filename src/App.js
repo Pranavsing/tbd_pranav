@@ -17,7 +17,6 @@ function App() {
         >
           TBD pranav name change update 2.0
           new line added
-          line from kpc
         </a>
       </header>
     </div>
