@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          TBD pranav name change
+          TBD pranav name change update 2.0
         </a>
       </header>
     </div>
